@@ -1,2 +1,4 @@
 # hello-world
-Greetings to the planet.
+Greetings to our planet.
+
+Big thanks to Linus T.
